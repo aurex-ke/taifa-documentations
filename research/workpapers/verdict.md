@@ -63,6 +63,16 @@ No item meets all three criteria. Every row has at least one "Unknown" or
 | E-mobility | Need not confirmed (watch item) | Low | About 1.4 MW average load (C-031); 543 customers (D-060) |
 | Petroleum, LPG, pass-through costs | Need not confirmed | Medium | Reported causes are world prices, FX, logistics and driver error (D-061, D-032, D-058), not EMS-addressable |
 
+**Reading the labels in this table (INTERPRETATION).** At level, "Need not
+confirmed" means the reports give either a reported cause that is not
+EMS-addressable (petroleum, LPG, pass-through: D-061, D-032, D-058) or no
+measurable mechanism or size (household, e-mobility: C-022, C-031, D-060). It
+does not mean the reports show there is no need. Household and e-mobility
+rest on weaker grounds (an inferred absence of a time-varying domestic
+price signal, AR p.26; a small base) than the petroleum rows, which is why
+their confidence is Low. Section 3 sets the stricter test for the overall
+verdict. These level labels do not change it.
+
 ## 5. What would change the verdict
 
 | Additional evidence | Direction |
